@@ -27,3 +27,9 @@ The graph changes based on the hyphen values ​​from the API.
   
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ff28f0b-c0a8-4755-bdab-53c2d86f266b" 
+       alt="Screenshot_20250610-171324_Video Player" 
+       style="width:30%; max-width:200px;">
+  
+</p>
